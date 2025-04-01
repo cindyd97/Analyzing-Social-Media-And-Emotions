@@ -12,10 +12,12 @@ Python (with pathlib, pandas, matplotlib, and scipy.stats)
 ### Data Sources:
 Emirhan BULUT. (2024). Social Media Usage and Emotional Well-Being [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DSV/8460631.  Temporal coverage dates were from February 15th  to May 23rd of 2024 and the geospatial coverage was worldwide.
 
-### Details: 
+### Project Content: 
 - [Written Analysis](https://github.com/cindyd97/Analyzing-Social-Media-And-Emotions/blob/main/Final%20Project/Written.Analysis.docx)
 - [Cleaning the Dataset](https://github.com/cindyd97/Analyzing-Social-Media-And-Emotions/blob/main/Final%20Project/Final_Data_Clean.ipynb.ipynb)
-- Exploring the Data
+- [Exploring the Data part 1](https://github.com/cindyd97/Analyzing-Social-Media-And-Emotions/blob/main/Final%20Project/Final_Analysis.ipynb)
+- [Exploring the Data part 2](https://github.com/cindyd97/Analyzing-Social-Media-And-Emotions/blob/main/Cindy's_work/Analysis.ipynb)
+- [Exploring the Data part 3](https://github.com/cindyd97/Analyzing-Social-Media-And-Emotions/blob/main/Jennifer's_work/analysis.ipynb)
 - [Original Dataset](https://github.com/cindyd97/Analyzing-Social-Media-And-Emotions/blob/main/Data/train.csv)
 - [Cleaned Dataset](https://github.com/cindyd97/Analyzing-Social-Media-And-Emotions/blob/main/Jennifer's_work/Clean_CSV.csv)
 - [Presentation Slide Deck](https://github.com/cindyd97/Analyzing-Social-Media-And-Emotions/blob/main/Final%20Project/Presentation%20Slide%20Deck.pptx)
