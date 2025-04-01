@@ -13,16 +13,11 @@ Python (with pathlib, pandas, matplotlib, and scipy.stats)
 Emirhan BULUT. (2024). Social Media Usage and Emotional Well-Being [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DSV/8460631.  Temporal coverage dates were from February 15th  to May 23rd of 2024 and the geospatial coverage was worldwide.
 
 ### Details: 
-- Written Analysis
-- Cleaning the Dataset
+- [Written Analysis](https://github.com/cindyd97/Analyzing-Social-Media-And-Emotions/blob/main/Final%20Project/Written.Analysis.docx)
+- [Cleaning the Dataset](https://github.com/cindyd97/Analyzing-Social-Media-And-Emotions/blob/main/Final%20Project/Final_Data_Clean.ipynb.ipynb)
 - Exploring the Data
-- Images
-- Original Dataset
-- Cleaned Dataset
-- Presentation Slide Deck
+- [Original Dataset](https://github.com/cindyd97/Analyzing-Social-Media-And-Emotions/blob/main/Data/train.csv)
+- [Cleaned Dataset](https://github.com/cindyd97/Analyzing-Social-Media-And-Emotions/blob/main/Jennifer's_work/Clean_CSV.csv)
+- [Presentation Slide Deck](https://github.com/cindyd97/Analyzing-Social-Media-And-Emotions/blob/main/Final%20Project/Presentation%20Slide%20Deck.pptx)
 
-Please see Final Project folder which includes our written analysis, our presentation, our jupyter notebook that cleans the raw data as well as our second jupyter notebook for our analysis, tables, and charts.
-The Images folder consists of all of our images, generated from Python, utilized for our presentation, and findings for conclusions. The folder is broken down by individual group member.
-The Data Folder consists of the raw data, called 'train.CSV', that was pulled from Kaggle.
-Daniel's_work, Jennifer's_work, Zilan's_work, and Cindy's_work consist of each group member's jupyter notebooks. Each folder will have the group member's own work for their contribution to the analysis. 
-The cleaned data is under Jennifer's_work called 'Clean_CSV'. 
+
