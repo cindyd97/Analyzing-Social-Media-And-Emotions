@@ -7,11 +7,19 @@ Zialn Yildiz, Jennifer Vega, Daniel Cabrera, Cindy Duong
 We are a group of data analysts exploring the data on the usage of social media and emotional well-being. Social media has grown to become part of our modern day-to-day lives having an influence over various aspects of our emotional well-being. We will be analyzing demographic factors (age, gender), social media platform statistical factors (platform app, usage time, activity type), and emotional state factors (Happiness, Sadness, Anger, Anxiety, Boredom, Neutral).  We seek to understand the relationship, if any, that may exist between these variables while also acknowledging that we are not experts and can only draw conclusions about the information in this dataset. This analysis will explore the dataset over platform activity and users’ emotional state, discuss our thought process of exploration, and include any conclusions found.
 
 ### Language: 
-Python (with )
+Python (with pathlib, pandas, matplotlib, and scipy.stats)
 
 ### Data Sources:
+Emirhan BULUT. (2024). Social Media Usage and Emotional Well-Being [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DSV/8460631.  Temporal coverage dates were from February 15th  to May 23rd of 2024 and the geospatial coverage was worldwide.
 
-
+### Details: 
+- Written Analysis
+- Cleaning the Dataset
+- Exploring the Data
+- Images
+- Original Dataset
+- Cleaned Dataset
+- Presentation Slide Deck
 
 Please see Final Project folder which includes our written analysis, our presentation, our jupyter notebook that cleans the raw data as well as our second jupyter notebook for our analysis, tables, and charts.
 The Images folder consists of all of our images, generated from Python, utilized for our presentation, and findings for conclusions. The folder is broken down by individual group member.
